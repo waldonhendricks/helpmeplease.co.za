@@ -1,0 +1,14 @@
+[11-Jun-2013 09:31:56] PHP Warning:  array_diff() [<a href='function.array-diff'>function.array-diff</a>]: Argument #2 is not an array in /home/wallyd/public_html/ict/ict/include/ajax.reports.php on line 232
+[11-Jun-2013 09:31:56] PHP Warning:  Invalid argument supplied for foreach() in /home/wallyd/public_html/ict/ict/include/ajax.reports.php on line 232
+[11-Jun-2013 09:34:58] PHP Warning:  array_diff() [<a href='function.array-diff'>function.array-diff</a>]: Argument #2 is not an array in /home/wallyd/public_html/ict/ict/include/ajax.reports.php on line 232
+[11-Jun-2013 09:34:58] PHP Warning:  Invalid argument supplied for foreach() in /home/wallyd/public_html/ict/ict/include/ajax.reports.php on line 232
+[11-Jun-2013 18:57:06] PHP Warning:  array_diff() [<a href='function.array-diff'>function.array-diff</a>]: Argument #2 is not an array in /home/wallyd/public_html/ict/ict/include/ajax.reports.php on line 232
+[11-Jun-2013 18:57:06] PHP Warning:  Invalid argument supplied for foreach() in /home/wallyd/public_html/ict/ict/include/ajax.reports.php on line 232
+[12-Jun-2013 02:25:20] PHP Warning:  array_diff() [<a href='function.array-diff'>function.array-diff</a>]: Argument #2 is not an array in /home/wallyd/public_html/ict/ict/include/ajax.reports.php on line 232
+[12-Jun-2013 02:25:20] PHP Warning:  Invalid argument supplied for foreach() in /home/wallyd/public_html/ict/ict/include/ajax.reports.php on line 232
+[12-Jun-2013 02:47:58] PHP Warning:  array_diff() [<a href='function.array-diff'>function.array-diff</a>]: Argument #2 is not an array in /home/wallyd/public_html/ict/ict/include/ajax.reports.php on line 232
+[12-Jun-2013 02:47:58] PHP Warning:  Invalid argument supplied for foreach() in /home/wallyd/public_html/ict/ict/include/ajax.reports.php on line 232
+[12-Jun-2013 07:41:10] PHP Warning:  array_diff() [<a href='function.array-diff'>function.array-diff</a>]: Argument #2 is not an array in /home/wallyd/public_html/ict/ict/include/ajax.reports.php on line 232
+[12-Jun-2013 07:41:10] PHP Warning:  Invalid argument supplied for foreach() in /home/wallyd/public_html/ict/ict/include/ajax.reports.php on line 232
+[12-Jun-2013 07:43:06] PHP Warning:  array_diff() [<a href='function.array-diff'>function.array-diff</a>]: Argument #2 is not an array in /home/wallyd/public_html/ict/ict/include/ajax.reports.php on line 232
+[12-Jun-2013 07:43:06] PHP Warning:  Invalid argument supplied for foreach() in /home/wallyd/public_html/ict/ict/include/ajax.reports.php on line 232
